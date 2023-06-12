@@ -1,0 +1,307 @@
+NO Brukerveiledning
+
+Easee Home
+Easee Charge
+
+Hvordan lader jeg?
+Les veiledningen Viktig produktinformasjon som du
+finner i produktemballasjen eller på easee.com/manuals
+før du bruker produktet.
+Installasjon og bruk av produktet krever en mobilenhet
+med internettforbindelse.
+Forsikre deg om at følgende krav er oppfylt før du bruker
+Laderoboten:
+— Produktet og den elektriske tilkoblingen er
+installert av en autorisert elektriker i henhold til
+Installatørveiledningen.
+— Laderen er riktig konfigurert.
+— Programvaren er oppdatert (se Laderobotens
+grensesnitt).
+— Hvis du har konfigurert tilgangskontroll, kan du låse
+den opp ved å bruke en registrert RFID-brikke (se
+Funksjoner), eller deaktivere den fra Easee App eller
+det lokale grensesnittet.
+1.
+
+Kontroller ladekabelen og kontakten for skader og
+urenheter som fremmedlegemer og vanninntrengning før du lader.
+
+2.
+
+Koble ladekabelen til Laderoboten og elbilen din.
+Ladeprosessen starter, og tilpasser seg automatisk
+til elbilen og den strømmen som til enhver tid er
+tilgjengelig i henhold til konfigureringen.
+
+Hvis bilen ikke begynner å lade, bør du kontrollere at
+lading er aktivert i bilen din og at kontaktene er riktig
+koblet til. Hvis ladingen fortsatt ikke starter, bør du
+kontrollere hva som kan være årsaken under avsnittet
+Laderobotens grensesnitt.
+
+2
+
+Smartlading
+Noen operatører tilbyr smartlading som kan utsette
+ladingen til et passende tidspunkt, ofte knyttet til
+strømpris eller lignende mekanismer. Når smartlading er
+aktiv, lyser LED-stripen blått, og ladingen starter ikke før
+operatørens kriterier for slik lading er oppfylt. Kontakt
+operatøren for å lære mer, og for å finne ut om de tilbyr
+denne tjenesten.
+
+Apper og grensesnitt
+Easee App
+Easee App gir deg full kontroll og status over laderen din.
+Den er beregnet for daglig bruk av Easee-produktene
+dine via Easee Cloud.
+Skann QR-koden eller gå til: easee.com/app for å laste
+ned appen.
+
+Lokalt grensesnitt
+Det lokale grensesnittet er beregnet for lokal drift av
+laderen i tilfeller der den ikke får tilgang til internett.
+Les mer om det lokale grensesnittet på:
+easee.com/support/localinterface
+
+Easee Portal
+Easee Portal er et verktøy beregnet for administrasjon
+av ett eller flere Easee-anlegg. Portalen er hovedsakelig
+ment for anleggseiere, installatører, administratorer,
+tjenesteleverandører og personer som trenger å
+administrere flere produkter og anlegg fra ett felles
+grensesnitt.
+Gå til easee.support for mer informasjon om
+grensesnittene våre.
+
+3
+
+Funksjoner
+
+1
+
+1.
+
+Berøringsknapp: Berøringsknappen brukes til
+å aktivere det lokale grensesnittet. Det lokale
+grensesnittet er beregnet for lokal drift av laderen
+når internett ikke er tilgjengelig. Les mer om det
+lokale grensesnittet på: easee.com/support/
+localinterface
+
+2.
+
+Lysstripe: Lysstripen formidler statusen til
+Laderoboten til enhver tid. (Se Laderobotens
+grensesnitt).
+
+3.
+
+RFID-område: Den integrerte RFID-leseren aktiverer
+tilgangskontroll til Laderoboten og identifisering av
+ulike brukere. Du kan bruke den til å låse opp laderen
+med en Easee Key. Sjekk kunnskapsbasen vår på
+easee.support for flere detaljer om hvordan du kan
+legge til og administrere dine Easee Keys.
+
+4.
+
+Type 2-kontakt: Type 2-kontakten er helt universell,
+og lar deg lade alle typer elektriske kjøretøy
+med riktig ladekabel. I tillegg er det mulig å låse
+ladekabelen permanent, så du ikke trenger å
+bekymre deg for at den blir stjålet.
+
+2
+
+3
+
+4
+
+4
+
+Laderobotens grensesnitt
+Lysbeskrivelse
+
+Status
+
+Hvitt – konstant lys, bare nederst
+2 lysdioder – master / 1 lysdiode – sekundære
+enheter
+
+Standby
+
+Hvitt – konstant lys
+
+Bil tilkoblet
+
+Hvitt – pulserende lys
+
+Lading pågår
+
+Blått – konstant lys
+
+Smartlading aktivert (bil tilkoblet)
+
+Blått – pulserende lys
+
+Smartlading pågår
+
+Ved oppstart tennes lysdiodene én etter én.
+Når laderen oppdateres, vil en eller flere
+lysdioder blinke grønt mens dette pågår.
+
+Oppdaterer programvare (oppdatering kan ta opptil 30 minutter)
+OBS! Bilen må kobles fra før en programvareoppdatering kan
+fullføres.
+
+Hvitt – blinkende lys
+
+Venter på autentisering med en RFID-brikke. Hold RFID-brikken mot
+RFID-området på Laderoboten for å autentisere og starte ladingen.
+
+Hvitt – raskt blinkende lys
+
+RFID-brikke mottatt (venter på nøkkelverifisering)
+
+Rødt – blinkende lys, med varsellyder
+
+ADVARSEL
+Kritisk feil! Slå av strømmen og fjern ladekabelen fra laderoboten.
+Strømmen kan deretter slås på igjen om nødvendig. Det blinkende
+røde lyset fortsetter, men varsellyden stopper når ladekabelen
+kobles fra. Laderen er sperret for videre bruk, kan ikke tilbakestilles
+og må skiftes ut. Kontakt kundestøtte.
+
+Rødt – blinkende lys
+
+ADVARSEL
+Kritisk feil! Laderen er sperret for videre bruk, kan ikke tilbakestilles
+og må skiftes ut. Kontakt kundestøtte.
+
+Rødt – konstant lys
+
+Generell feil. Koble fra ladekabelen og koble den til Laderoboten
+igjen. Hvis det røde lyset vedvarer, kan du sjekke Easee App eller vår
+kunnskapsbase2 for mer informasjon.
+
+Rødt – konstant lys, med advarsellyder
+
+Ledningene er koblet feil. Kontakt en autorisert elektriker.
+2
+
+5
+
+Easees offentlige kunnskapsbase finner du på easee.support.
+
+Lysbeskrivelse
+
+Status
+
+Rødt – pulserende lys
+
+Laderoboten har målt unormal temperatur og har gått i sikker
+modus. Gå til kunnskapsbasen vår2 for mer informasjon.
+
+Hvitt – blinkende lys, bare nederst
+
+Laderoboten søker etter Master-enheten. Kontroller statusen til
+masteren. For mer informasjon, se kunnskapsbasen vår2.
+
+Gult – blinkende lys, bare nederst
+
+Laderoboten venter på å bli konfigurert. Kontakt en autorisert
+elektriker.
+
+2
+
+6
+
+Easees offentlige kunnskapsbase finner du på easee.support.
+
+Vedlikehold
+
+Praktiske detaljer
+
+Generelt vedlikehold
+
+Garanti
+Enheten er fri for materielle feil og er i samsvar med
+lovverk og forskrifter for forbrukerbeskyttelse i
+landet der produktet er kjøpt. All korrekt installert
+Easee-hardware i Norge dekkes av vår begrensede
+3-årsgaranti*. Ta kontakt med Easee-forhandleren
+din hvis laderen din trenger reparasjon innenfor denne
+garantiperioden. Ytterligere informasjon kan finnes på
+easee.support.
+*Noen land kan ha utvidet garanti.
+
+—
+—
+
+Forsikre deg om at laderen ikke har noen tegn til
+mekanisk skade.
+Inspiser Type 2-kontakten visuelt for slitasje med
+jevne mellomrom i henhold til lokale forskrifter. Hvis
+pinnene er misfarget eller skadet, må du kontakte en
+autorisert elektriker.
+
+Rengjøring
+Laderen krever ikke rengjøring for å fungere som
+den skal. Det er likevel mulig å rengjøre produktet av
+kosmetiske årsaker.
+— Bruk en fuktig klut og et universalrengjøringsmiddel.
+Unngå å bruke sterke kjemikalier som inneholder olje
+eller alkohol, da det kan misfarge plasten.
+— Ikke bruk rennende vann eller høytrykksspyling.
+Reparasjon
+Ta kontakt med din nærmeste Easee-forhandler dersom
+laderen din trenger reparasjon.
+Retur og reklamasjon
+Ta kontakt med din nærmeste forhandler eller Easees
+kundestøtte angående retur og reklamasjon på
+produktet.
+Kundestøtte
+Last ned de nyeste manualene, og finn svar på ofte stilte
+spørsmål (FAQ) samt nyttige dokumenter og videoer for
+produktet ditt på easee.support.
+
+7
+
+Kontaktinformasjon
+Easee AS
+Grenseveien 19
+4313 Sandnes, Norge
+Org. nr: 920 292 046
+Du finner ytterligere kontaktinformasjon for landet ditt
+på easee.com.
+
+Informasjonen i dette dokumentet er kun til informasjonsformål,
+er gitt som den er, og kan endres uten varsel. Easee AS inkludert
+dets datterselskaper påtar seg ikke noe ansvar for riktigheten
+eller fullstendigheten av informasjonen og illustrasjonene, og er
+ikke juridisk eller på annen måte ansvarlig for dine vurderinger,
+avveininger, beslutninger eller fravær av slike, eller annen bruk av
+informasjonen i dette dokumentet.
+Ingen del av denne publikasjonen kan republiseres, reproduseres,
+overføres eller gjenbrukes i noen annen form, på noen måte eller
+i noe format, for din egen eller tredjeparts bruk, med mindre
+annet er skriftlig avtalt med Easee eller dets datterselskaper.
+Enhver tillatt bruk skal alltid gjøres i samsvar med god praksis
+og sikre at ingen skade kan påføres Easee, eller ved å villede
+forbrukeren.
+Easee og Easee-produkter, produktnavn, varemerker og slagord,
+enten de er registrert eller ikke, er Easees åndsverk og kan
+ikke brukes uten Easees skriftlige tillatelse på forhånd. Alle
+andre nevnte produkter og tjenester kan være varemerker eller
+tjenestemerker for sine respektive eiere.
+Februar 2023 – Versjon 1.01
+© 2023 av Easee AS. Alle rettigheter forbeholdes.
+
+Easee AS
+Grenseveien 19
+4313 Sandnes, Norge
+.easee.com
+8
+
+
